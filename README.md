@@ -2,6 +2,8 @@
 # Bootstrap-Portfolio
 # Responsiveness Assignment
 
+
+My site is published at https://alvie40.github.io/Responsive-Portfolio/
 ### Overview
 
 In this assignment, you'll create two different portfolios. The first will be building

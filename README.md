@@ -1,6 +1,4 @@
 # Responsive-Portfolio
-# Bootstrap-Portfolio
-# Responsiveness Assignment
 
 
 My site is published at https://alvie40.github.io/Responsive-Portfolio/
